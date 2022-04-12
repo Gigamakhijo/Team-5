@@ -11,6 +11,8 @@
 
 5645744 최용원
 
+5702187 정찬혁
+
 1. `git checkout -b 브랜치이름`
 2. `git status` 초록색 글자는 커밋 할 수 있는 파일 빨간색은 `git add 파일이름`으로stage에 추가
 3. `git add REAME.md`
